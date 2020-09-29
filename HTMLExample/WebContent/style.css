@@ -1,0 +1,45 @@
+@CHARSET "ISO-8859-1";
+
+h1 {
+	text-align: center;
+	background-color: aqua;
+	color: white;
+	height: 50px;
+	margin-top: 200px;
+}
+
+div {
+	width: 400px;
+	margin: 0 auto;
+	align: center;
+}
+
+p {
+	text-align: center;
+}
+
+.login {
+	margin-top: 190px;
+	text-align: center;
+}
+
+.writestyle {
+	font-family: fantasy;
+	font-size: 30px;
+}
+
+.tablestyle {
+	font-family: inherit;
+}
+
+.image {
+	background-image:
+		url("55fe99072f6dd93fdf657a6e46348116_java-html-language-logo-png-transparent-png-kindpng_860-291.png");
+}
+
+.signUpDiv {
+	background-color: olive;
+	color: white;
+	width: 360px;
+	height: 340px;
+}
